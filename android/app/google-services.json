@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1061345055152",
+    "project_id": "foodordering2-dba81",
+    "storage_bucket": "foodordering2-dba81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061345055152:android:53113ed96e7d492cbdc675",
+        "android_client_info": {
+          "package_name": "com.example.food_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061345055152-f4a3g6jbj48ccp956e9rbhlfei69srar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6AhzbTuOqfbxJMsm6TGpLuWSUpeGKupQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061345055152-f4a3g6jbj48ccp956e9rbhlfei69srar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
